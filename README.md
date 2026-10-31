@@ -49,7 +49,7 @@ Rumus perhitungan:
 ___
 ## Screenshot Hasil Program
 
-![Hasil Program Nilai](Screenshot_Konversi nilai ke huruf_python_.jpg ). 
+![Hasil Program Nilai](Screenshot_Konversi nilai ke huruf_python_.jpg). 
 
-![Hasil Program Kasir](Screenshot Restoran _ python.jpg)
+![Hasil Program Restoran](Screenshot Restoran _ python.jpg)
 
