@@ -13,7 +13,6 @@ Program ini dibuat menggunakan bahasa pemrograman Python untuk mengonversi nilai
 
 
 Ketentuan Program
-
 Rentang Nilai| Grade
 
 85 – 100| A
