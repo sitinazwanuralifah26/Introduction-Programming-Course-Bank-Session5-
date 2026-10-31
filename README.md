@@ -24,3 +24,4 @@ Rentang Nilai| Grade
 Di bawah 55| D (Remedial) 
 
 Tampilan program saat sudah di run pada phyton
+Screenshot_Konversi nilai ke huruf_python_.jpg
