@@ -51,4 +51,4 @@ ___
 
 ![Hasil Program Nilai](Screenshot_2026_1031_084452.jpg) 
 
-![Hasil Program Restoran](Screenshot_2026_1031_084452.jpg) 
+![Hasil Program Restoran](Screenshot_20261031_092600.jpg) 
