@@ -15,9 +15,13 @@ Program ini dibuat menggunakan bahasa pemrograman Python untuk mengonversi nilai
 Ketentuan Program
 
 Rentang Nilai| Grade
+
 85 – 100| A
+
 70 – 84| B
+
 55 – 69| C
+
 Di bawah 55| D (Remedial) 
 
 Tampilan program saat sudah di run pada phyton
