@@ -51,4 +51,4 @@ ___
 
 ![Hasil Program Nilai](Screenshot_2026_1031_084452.jpg) 
 
-![Hasil Program Restoran](Screenshot_Konversi nilai ke huruf_python_ (1).jpg) 
+![Hasil Program Restoran](Screenshot_2026_1031_084452.jpg) 
