@@ -48,4 +48,8 @@ Rumus perhitungan:
 
 ___
 ## Screenshot Hasil Program
-![Hasil Program Konversi Nila ke Hufruf
+
+![Hasil Program Nilai](Screenshot_Konversi nilai ke huruf_python_.jpg ). 
+
+![Hasil Program Kasir](Screenshot Restoran _ python.jpg)
+
