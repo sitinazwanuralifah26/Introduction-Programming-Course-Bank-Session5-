@@ -33,6 +33,7 @@ Program ini merupakan program kasir sederhana menggunakan bahasa pemrograman Pyt
  Daftar Menu
 
 No.| Nama Menu| Harga
+
 1| Nasi Goreng| Rp15.000
 
 2| Mie Ayam| Rp12.000
